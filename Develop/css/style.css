@@ -246,8 +246,14 @@ li:hover{
     color: rgb(245, 255, 237);
 }
 
+h1{
+    text-decoration: underline;
+    color: #cc87d5;
+    margin-top: 50px;
+}
+
 h3{
-    color: rgb(208, 255, 170);
+    color: #f499c0;
 }
 
 h4{
@@ -271,4 +277,27 @@ h4{
     50% {
         background-color: rgb(255, 255, 255);
     }
+}
+
+.contact{
+    color: #cc87d5;
+    font-size: 24px;
+    margin: 30px;
+    text-decoration: underline;
+}
+
+.contactInfo{
+    color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.license{
+    color: #ffffff;
+    font-size: 14px;
+    margin-top: 100px;
+}
+
+.inline-block{
+    color: rgb(208, 255, 170);
 }
