@@ -255,6 +255,11 @@ h1{
 
 h3{
     color: #f499c0;
+    cursor: pointer;
+}
+
+h3:hover{
+    color: #ffbdda;
 }
 
 h4{
