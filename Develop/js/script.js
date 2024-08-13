@@ -1,4 +1,6 @@
 
+console.log ("script.js is linked");
+
 $(document).ready(function() {
     // show modal when the page loads
     $("#popup").fadeIn();
